@@ -1,5 +1,5 @@
 # Python-Reverse-Shell
-A simple Client-Server Reverse Shell create in Python3
+A simple Client-Server Reverse Shell created in Python3
 
 # Usage
 server.py file is the main server that will receive the connection
