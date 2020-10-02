@@ -1,4 +1,4 @@
-# Python-Reverse-Shell
+# Python Reverse Shell
 A simple Client-Server Reverse Shell created in Python3
 
 # Usage
